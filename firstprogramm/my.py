@@ -50,3 +50,10 @@ print(result)
 #% operator for calculating remainder
 r=17%2
 print(r)
+
+
+import calendar
+yy=2024
+mm=7
+dd=8
+print(calendar.month(yy,mm,dd))
